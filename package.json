@@ -1,0 +1,19 @@
+{
+  "name": "worf-backend",
+  "version": "1.0.0",
+  "description": "Backend for Worf-js hackathon project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14budig/worf-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/14budig/worf-backend/issues"
+  },
+  "homepage": "https://github.com/14budig/worf-backend#readme"
+}
